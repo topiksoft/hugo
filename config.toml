@@ -1,8 +1,9 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://hungaricus.github.io/hugo/"
 title = "Kiera"
-copyright = "Copyright &copy; 2018 - Ad Librum Ltd."
+copyright = "Copyright &copy; 2018 - Ad Librum Kft."
 canonifyurls = true
 theme = "kiera"
+# Github kompatibilis könyvtár
 publishDir = "docs"
 
 paginate = 3
@@ -21,4 +22,4 @@ pygmentsCodeFences = true
     instagram = ""
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing (This is a tagline)"
+    tagline = "Az Ad Librum kiadók honlapja."
