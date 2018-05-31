@@ -1,4 +1,4 @@
-baseurl = "https://hungaricus.github.io/hugo/"
+baseurl = "https://hungaricus.github.io/hugo"
 title = "Kiera"
 copyright = "Copyright &copy; 2018 - Ad Librum Kft."
 canonifyurls = true
