@@ -3,7 +3,7 @@ title = "Kiera"
 copyright = "Copyright &copy; 2018 - Ad Librum Ltd."
 canonifyurls = true
 theme = "kiera"
-publishDir = "Docs"
+publishDir = "docs"
 
 paginate = 3
 
