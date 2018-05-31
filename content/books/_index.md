@@ -1,5 +1,5 @@
 +++
-title = "Hírek"
+title = "Könyvek"
 menu = "main"
 weight = "10"
 +++

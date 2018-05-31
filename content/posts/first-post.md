@@ -6,4 +6,4 @@ draft: true
 
 # Ez poszt
 
-Jó ~kis~ _szöveg_.
+**Jó** ~~kis~~ _szöveg_.

@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<img class="singlecover" src="{{ .Params.cover }}">
+
+<h2>{{ .Params.author }}: <em>{{.Params.booktitle }}</em>. {{ .Params.pages  }} oldal</h2>
+    
+
+{{.Content}}
+
+
+{{ partial "single_footer" . }}
+
+{{ end }}

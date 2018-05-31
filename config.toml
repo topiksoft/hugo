@@ -1,12 +1,13 @@
 baseurl = "https://hungaricus.github.io/hugo"
-title = "Kiera"
+title = "Ad Librum kiadók"
 copyright = "Copyright &copy; 2018 - Ad Librum Kft."
 canonifyurls = true
-theme = "kiera"
+# a Kiera téma módosított változata saját név alatt
+theme = "quintus"
 # Github kompatibilis könyvtár
 publishDir = "docs"
 
-paginate = 3
+paginate = 4
 
 summaryLength = 30
 enableEmoji = true
@@ -17,7 +18,7 @@ pygmentsCodeFences = true
     github = ""
     gitlab = ""
     linkedin = ""
-    facebook = ""
+    facebook = "https://facebook.com/adlibrum"
     twitter = ""
     instagram = ""
 
