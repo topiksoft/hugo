@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Kiera</title>
+    <title>Golang on Ad Librum kiadók</title>
     <link>https://hungaricus.github.io/hugo/categories/golang/</link>
-    <description>Recent content in Golang on Kiera</description>
+    <description>Recent content in Golang on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>

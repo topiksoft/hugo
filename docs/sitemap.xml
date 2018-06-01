@@ -8,8 +8,18 @@
   </url>
   
   <url>
+    <loc>https://hungaricus.github.io/hugo/books/</loc>
+    <lastmod>2018-05-31T22:54:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hungaricus.github.io/hugo/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungaricus.github.io/hugo/books/vastapsfelelosok/</loc>
+    <lastmod>2018-05-31T22:54:37+02:00</lastmod>
   </url>
   
   <url>
@@ -40,6 +50,12 @@
   <url>
     <loc>https://hungaricus.github.io/hugo/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hungaricus.github.io/hugo/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -80,12 +96,6 @@
   <url>
     <loc>https://hungaricus.github.io/hugo/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

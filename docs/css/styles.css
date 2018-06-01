@@ -26,7 +26,8 @@ time {
 }
 
 #container > * {
-  width: 700px;
+  width: 90%;
+  /*width: 700px;*/
   margin: 0 auto;
 }
 
@@ -371,4 +372,17 @@ ul.pagination {
 
 ul.pagination li {
   padding: 0 1em;
+}
+
+
+.singlecover {
+  /*width: 100%;*/
+  max-width: 500px;
+  box-shadow: 0 3px 3px #bbbbbb;
+}
+
+.listcover {
+  /*width: 100%;*/
+  max-width: 100px;
+  box-shadow: 0 3px 3px #bbbbbb;
 }
