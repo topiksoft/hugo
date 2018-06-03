@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nobel Díj on Ad Librum kiadók</title>
+    <link>https://hungaricus.github.io/hugo/tags/nobel-d%C3%ADj/</link>
+    <description>Recent content in Nobel Díj on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Mon, 07 May 2018 10:00:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://hungaricus.github.io/hugo/tags/nobel-d%C3%ADj/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idén nem ítélik oda az irodalmi Nobel-díjat</title>
+      <link>https://hungaricus.github.io/hugo/posts/iden-nem-itelik-oda-az-irodalmi-nobel-dijat/</link>
+      <pubDate>Mon, 07 May 2018 10:00:24 +0200</pubDate>
+      
+      <guid>https://hungaricus.github.io/hugo/posts/iden-nem-itelik-oda-az-irodalmi-nobel-dijat/</guid>
+      <description>Az euronews.com pénteken arról számolt be, hogy idén nem adják oda az irodalmi Nobel-díjat senkinek. Hogy miért, az itt olvasható.</description>
+    </item>
+    
+  </channel>
+</rss>

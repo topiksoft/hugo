@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volt Egyszer Egy Gencs on Ad Librum kiadók</title>
+    <link>https://hungaricus.github.io/hugo/tags/volt-egyszer-egy-gencs/</link>
+    <description>Recent content in Volt Egyszer Egy Gencs on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Fri, 09 Mar 2018 10:04:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://hungaricus.github.io/hugo/tags/volt-egyszer-egy-gencs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recenzió - Ez van</title>
+      <link>https://hungaricus.github.io/hugo/posts/recenzio-ez-van/</link>
+      <pubDate>Fri, 09 Mar 2018 10:04:14 +0200</pubDate>
+      
+      <guid>https://hungaricus.github.io/hugo/posts/recenzio-ez-van/</guid>
+      <description>A Nimród vadászújság márciusi számában írt Vida Gusztáv Ez van című könyvéről:
+Úgy írta meg második vadászkönyvét, hogy ez az elsőnek a második része. Két éve teljesen új hangot hozott a magyar vadászirodalom rengetegébe Vida Gusztáv (Volt egyszer egy Gencs, 2016, Ad Librum). Melankolikusan, filozofálva mörcögő középkorú bika szólalt meg ebben a nagy, álmos dzsungelben. Rendkívül egyéni és nagyon irodalmi hangon. Túl sok minden nyomta már a szívét, hosszú volt strófa, elsőre csak a felét adták ki, most aztán megjelent a másik fele is.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riport on Ad Librum kiadók</title>
+    <link>https://hungaricus.github.io/hugo/tags/riport/</link>
+    <description>Recent content in Riport on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Tue, 29 May 2018 10:00:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://hungaricus.github.io/hugo/tags/riport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interjú Kuti Veronikával</title>
+      <link>https://hungaricus.github.io/hugo/posts/interju-kuti-veronikaval/</link>
+      <pubDate>Tue, 29 May 2018 10:00:04 +0200</pubDate>
+      
+      <guid>https://hungaricus.github.io/hugo/posts/interju-kuti-veronikaval/</guid>
+      <description>&amp;ldquo;Nem akar többet, mint mesélni valódi nőkről nyíltan, őszintén, tisztán, napfénynél, ítélkezés nélkül&amp;rdquo; - foglalja össze új kötetének célját Kuti Veronika, a Vágyvirágzás: Nők a kibontakozó szexualitásukról szerzője. A tabutémákat tapintattal tárgyaló kötet az Ad Librum kiadó Riportkönyvek sorozatának legújabb darabja. Az interjúban a szerző egyebek mellett beszél arról, hogyan teremtette meg a bizalmi légkört a beszélgetőpartnereivel, mit tanulhatnak a férfiak ebből a kifejezetten női kötetből, miről volt a legnehezebb beszélni a könyvében megszólalóknak, és miért más könyvet írni, mint blogot.</description>
+    </item>
+    
+  </channel>
+</rss>

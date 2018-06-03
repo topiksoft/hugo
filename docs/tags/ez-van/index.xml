@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ez Van on Ad Librum kiadók</title>
+    <link>https://hungaricus.github.io/hugo/tags/ez-van/</link>
+    <description>Recent content in Ez Van on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Fri, 09 Mar 2018 10:04:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://hungaricus.github.io/hugo/tags/ez-van/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recenzió - Ez van</title>
+      <link>https://hungaricus.github.io/hugo/posts/recenzio-ez-van/</link>
+      <pubDate>Fri, 09 Mar 2018 10:04:14 +0200</pubDate>
+      
+      <guid>https://hungaricus.github.io/hugo/posts/recenzio-ez-van/</guid>
+      <description>A Nimród vadászújság márciusi számában írt Vida Gusztáv Ez van című könyvéről:
+Úgy írta meg második vadászkönyvét, hogy ez az elsőnek a második része. Két éve teljesen új hangot hozott a magyar vadászirodalom rengetegébe Vida Gusztáv (Volt egyszer egy Gencs, 2016, Ad Librum). Melankolikusan, filozofálva mörcögő középkorú bika szólalt meg ebben a nagy, álmos dzsungelben. Rendkívül egyéni és nagyon irodalmi hangon. Túl sok minden nyomta már a szívét, hosszú volt strófa, elsőre csak a felét adták ki, most aztán megjelent a másik fele is.</description>
+    </item>
+    
+    <item>
+      <title>Beleolvasó - Ez van</title>
+      <link>https://hungaricus.github.io/hugo/posts/beleolvaso-ez-van/</link>
+      <pubDate>Wed, 28 Feb 2018 11:30:53 +0200</pubDate>
+      
+      <guid>https://hungaricus.github.io/hugo/posts/beleolvaso-ez-van/</guid>
+      <description>Vida Gusztáv Ez van című könyvéből hoztunk részletet. 
+A „Mester”. (részlet) … Másnap, a Tibi kocsmában futok össze Lajossal. – Mondta a bátyád? – kérdem. – Mit, te!? – Nem? Hát, akkor ezt elmesélem. Mit iszol? Na, szóval… Ott ülünk már órák óta, mindenütt a népek, sehun semmi, dögunalom S akkor, hogy menjek sörért, megyek is. Lenézek, hát látom ám, csez’ meg, pokoli nagy hal a szélen. Megyek be érte a vízbe.</description>
+    </item>
+    
+  </channel>
+</rss>
