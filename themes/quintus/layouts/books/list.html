@@ -19,7 +19,7 @@
     <ul>
         {{ range .Pages }}
         <li>
-            <a href="{{ .Permalink }}"><img class="listcover" src="{{ .Params.cover }}" /> {{ if .Draft }}DRAFT: {{end}} <strong>{{ .Params.author }}: <em>{{ .Params.booktitle }}</em></strong></a><br/>
+            <a href="{{ .Permalink }}"><img class="listcover" src="/images/{{ .Params.coverfile }}" /> {{ if .Draft }}DRAFT: {{end}} <strong>{{ .Params.bookauthor }}: <em>{{ .Params.booktitle }}</em></strong></a><br/>
             {{ .Params.blurb }}
         </li>
         {{ end }}
