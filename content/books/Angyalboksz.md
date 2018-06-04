@@ -29,7 +29,7 @@ link_ekonyv = "https://www.ekonyv.hu/hu/konyv-reszletei/angyalboksz--nehezfiuk-a
 link_ibook = ""
 link_izelito = "http://konyv.guru/izelito-angyalboksz/"
 link_moly = "https://moly.hu/konyvek/buky-dorottya-angyalboksz"
-coverfile = "http://adlibrum.hu/docs/webcovers/Buky-Dorottya_Angyalboksz--FD.jpg"
+coverfile = "Buky-Dorottya_Angyalboksz--FD.jpg"
 abstractshort = "Elképedsz, felháborodsz, felnevetsz: sztorik a böriből. „Ha rövid az élet, toldd meg egy ballépéssel!”"
 +++
 # Angyalboksz

@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://hungaricus.github.io/hugo/books/riport/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hungaricus.github.io/hugo/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -33,12 +38,12 @@
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/books/lovasz_horvath_nikolett-vastapsfelelosok/</loc>
+    <loc>https://hungaricus.github.io/hugo/books/riport/lovasz_horvath_nikolett-vastapsfelelosok/</loc>
     <lastmod>2018-06-01T17:40:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/books/kuti-veronika_vagyviragzas/</loc>
+    <loc>https://hungaricus.github.io/hugo/books/riport/kuti-veronika_vagyviragzas/</loc>
     <lastmod>2018-06-01T17:40:37+02:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/books/vastapsfelelosok/</loc>
+    <loc>https://hungaricus.github.io/hugo/books/riport/vastapsfelelosok/</loc>
     <lastmod>2018-05-31T22:54:37+02:00</lastmod>
   </url>
   
