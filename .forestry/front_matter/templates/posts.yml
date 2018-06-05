@@ -7,9 +7,9 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
+- name: date
+  label: Date
+  type: datetime
   hidden: false
   default: ''
 - name: slug
@@ -22,19 +22,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: wp_post_id
-  label: Wp post id
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
-- name: aliases
-  label: Aliases
-  type: list
+- name: description
+  label: Description
+  type: textarea
   hidden: false
   default: ''
 - name: tags
@@ -42,14 +32,19 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: []
-- name: description
-  label: Description
-  type: textarea
+- name: aliases
+  label: Aliases
+  type: list
   hidden: false
   default: ''
 - name: image
