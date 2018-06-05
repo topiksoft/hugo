@@ -1,0 +1,189 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+- name: bookauthor
+  label: Bookauthor
+  type: text
+  hidden: false
+  default: ''
+- name: booktitle
+  label: Booktitle
+  type: text
+  hidden: false
+  default: Könyvcím
+- name: publisher
+  label: Publisher
+  type: text
+  hidden: false
+  default: ''
+- name: format
+  label: Format
+  type: text
+  hidden: false
+  default: ''
+- name: pages
+  label: Pages
+  type: text
+  hidden: false
+  default: '200'
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: ''
+- name: isbn
+  label: Isbn
+  type: text
+  hidden: false
+  default: ''
+- name: pubyear
+  label: Pubyear
+  type: text
+  hidden: false
+  default: ''
+- name: pubdate
+  label: Pubdate
+  type: datetime
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: text
+  hidden: false
+  default: ''
+- name: aliases
+  label: Aliases
+  type: list
+  hidden: false
+  default: ''
+- name: bookdata_short
+  label: Bookdata short
+  type: textarea
+  hidden: false
+  default: ''
+- name: bookdata_long
+  label: Bookdata long
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_lira
+  label: Link lira
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_libri
+  label: Link libri
+  type: text
+  hidden: false
+  default: ''
+- name: link_bookline
+  label: Link bookline
+  type: text
+  hidden: false
+  default: ''
+- name: link_book24
+  label: Link book24
+  type: text
+  hidden: false
+  default: ''
+- name: link_emag
+  label: Link emag
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_alexandra
+  label: Link alexandra
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_webshop
+  label: Link webshop
+  type: text
+  hidden: false
+  default: ''
+- name: link_googlebooks
+  label: Link googlebooks
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_ekonyv
+  label: Link ekonyv
+  type: textarea
+  hidden: false
+  default: ''
+- name: link_ibook
+  label: Link ibook
+  type: text
+  hidden: false
+  default: ''
+- name: link_izelito
+  label: Link izelito
+  type: text
+  hidden: false
+  default: ''
+- name: link_moly
+  label: Link moly
+  type: text
+  hidden: false
+  default: ''
+- name: coverfile
+  label: Coverfile
+  type: file
+  hidden: false
+  default: ''
+- name: abstractshort
+  label: Abstractshort
+  type: textarea
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: cover
+  label: Cover
+  type: text
+  hidden: false
+  default: http://adlibrum.hu/docs/webcovers/Lovasz-Horvath-Nikolett_Vastapsfelelosok--FD.jpg
+- name: blurb
+  label: Blurb
+  type: textarea
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: false
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Szerző
