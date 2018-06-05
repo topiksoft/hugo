@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sajter Gizella on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/sajter-gizella/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/sajter-gizella/</link>
     <description>Recent content in Sajter Gizella on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Thu, 18 Jan 2018 09:30:03 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/sajter-gizella/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/sajter-gizella/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Értékelés - Vízvonal</title>
-      <link>https://hungaricus.github.io/hugo/posts/ertekeles-vizvonal/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/ertekeles-vizvonal/</link>
       <pubDate>Thu, 18 Jan 2018 09:30:03 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/ertekeles-vizvonal/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/ertekeles-vizvonal/</guid>
       <description>Megkaptuk az első olvasói véleménytSajter Gizella Vízvonal című művéről. Köszönjük az értékelést a Lap lap után blognak.
 Maga az alaptörténet olyan hangulatot teremtett, mintha éberen lebegnék az ébrenlét és az alvás határvonalán - ezt az érzést tökéletesen megalapozták a ,,beköszöntő versek”, s a fejezetek végén ill.</description>
     </item>

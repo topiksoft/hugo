@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Könyvvásár on Ad Librum kiadók</title>
+    <link>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyvv%C3%A1s%C3%A1r/</link>
+    <description>Recent content in Könyvvásár on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Tue, 05 Jun 2018 09:40:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://adlibrumhugo.surge.sh/categories/k%C3%B6nyvv%C3%A1s%C3%A1r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Megyünk a könyvhétre</title>
+      <link>https://adlibrumhugo.surge.sh/posts/megyunk-a-konyvhetre/</link>
+      <pubDate>Tue, 05 Jun 2018 09:40:44 +0000</pubDate>
+      
+      <guid>https://adlibrumhugo.surge.sh/posts/megyunk-a-konyvhetre/</guid>
+      <description>Nincs emberünk Kellene egy póteladó.</description>
+    </item>
+    
+  </channel>
+</rss>

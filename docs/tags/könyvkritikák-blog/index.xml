@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Könyvkritikák Blog on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/k%C3%B6nyvkritik%C3%A1k-blog/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvkritik%C3%A1k-blog/</link>
     <description>Recent content in Könyvkritikák Blog on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Mon, 14 May 2018 09:30:37 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/k%C3%B6nyvkritik%C3%A1k-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvkritik%C3%A1k-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kritika - Vastapsfelelősök</title>
-      <link>https://hungaricus.github.io/hugo/posts/kritika-vastapsfelelosok/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/kritika-vastapsfelelosok/</link>
       <pubDate>Mon, 14 May 2018 09:30:37 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/kritika-vastapsfelelosok/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/kritika-vastapsfelelosok/</guid>
       <description>A Moly.hu-t böngészve @Chris véleményére bukkantunk, ami a Könyyvkritikák blogról származik. Ezúton is köszönjük. Néhány gondolat a bejegyzésből:
 Lovász-Horváth Nikolett könyvébe egészen véletlenül futottam bele, azonban – mint színházrajongó ember – azonnal felkeltette az érdeklődésemet.</description>
     </item>

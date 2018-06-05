@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kritika on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/kritika/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/kritika/</link>
     <description>Recent content in Kritika on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Mon, 14 May 2018 09:30:37 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/kritika/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/kritika/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kritika - Vastapsfelelősök</title>
-      <link>https://hungaricus.github.io/hugo/posts/kritika-vastapsfelelosok/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/kritika-vastapsfelelosok/</link>
       <pubDate>Mon, 14 May 2018 09:30:37 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/kritika-vastapsfelelosok/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/kritika-vastapsfelelosok/</guid>
       <description>A Moly.hu-t böngészve @Chris véleményére bukkantunk, ami a Könyyvkritikák blogról származik. Ezúton is köszönjük. Néhány gondolat a bejegyzésből:
 Lovász-Horváth Nikolett könyvébe egészen véletlenül futottam bele, azonban – mint színházrajongó ember – azonnal felkeltette az érdeklődésemet.</description>
     </item>
     
     <item>
       <title>Könyvértékelés: Férfiműszak</title>
-      <link>https://hungaricus.github.io/hugo/posts/konyvertekeles-ferfimuszak/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/konyvertekeles-ferfimuszak/</link>
       <pubDate>Tue, 20 Feb 2018 16:00:46 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/konyvertekeles-ferfimuszak/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/konyvertekeles-ferfimuszak/</guid>
       <description>Úgy tűnik, Domszky László Férfiműszak című könyve megosztotta a közönséget. Kaptunk pozitív és negatív kritikát egyaránt. A média számos fórumon készített interjút a szerzővel, mutatta be a könyvet. Ezúttal arra is kíváncsiak voltunk, mit szól a meleg közönség.</description>
     </item>
     

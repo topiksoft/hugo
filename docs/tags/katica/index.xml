@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katica on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/katica/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/katica/</link>
     <description>Recent content in Katica on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Thu, 11 Jan 2018 09:30:54 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/katica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/katica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recenzió a Szobortáncról</title>
-      <link>https://hungaricus.github.io/hugo/posts/recenzio-a-szobortancrol/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/recenzio-a-szobortancrol/</link>
       <pubDate>Thu, 11 Jan 2018 09:30:54 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/recenzio-a-szobortancrol/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/recenzio-a-szobortancrol/</guid>
       <description>Megkaptuk az első recenziót Barczikay Lilla Szobortánc című regényéről. Az első véleményt Katica a Könyv Extrák bloggere írta.
 Sötét hangulatú, mindvégig izgalmas, tulajdonképpen nagyon szerethető regény a Szobortánc. Ha valami másra vágysz, mint amit egy átlag NA-től kapsz, akkor ne hagyd ki!</description>
     </item>

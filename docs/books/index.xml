@@ -2,45 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Könyvek on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/books/</link>
+    <link>https://adlibrumhugo.surge.sh/books/</link>
     <description>Recent content in Könyvek on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Fri, 01 Jun 2018 17:40:37 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/books/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Angyalboksz</title>
-      <link>https://hungaricus.github.io/hugo/books/angyalboksz/</link>
-      <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
-      
-      <guid>https://hungaricus.github.io/hugo/books/angyalboksz/</guid>
-      <description>Angyalboksz Büky Dorottya: Angyalboksz. Nehézfiúk a börtönéletről. Ad Librum Kiadó, 2017. 192. ISBN 978-615-5686-87-0 3490 [Riportkönyv]
-A könyvben hét beszélgetést olvashatsz volt börtönlakókkal, igazi nehézfiúkkal, akik együttesen csaknem 100 évet töltöttek a rácsok mögött, és most az életükről vallanak Dorkának.</description>
-    </item>
     
     <item>
       <title>Férfiműszak</title>
-      <link>https://hungaricus.github.io/hugo/books/ferfimuszak/</link>
+      <link>https://adlibrumhugo.surge.sh/books/ferfimuszak/</link>
       <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/books/ferfimuszak/</guid>
+      <guid>https://adlibrumhugo.surge.sh/books/ferfimuszak/</guid>
       <description>Férfiműszak Domszky László: Férfiműszak. Melegprostik a megfizetett boldogságról. Ad Librum Kiadó, 2017. 160. ISBN 978-615-5686-95-5 2990 [Riportkönyv]
 Less be a férfiprostituáltak elképesztő világába!
 Ebben a riportkönyvben találkozhatsz Kristóffal, aki Dubajban vállal passzív szerepeket, és meghökkentő aberrációkról mesél.</description>
-    </item>
-    
-    <item>
-      <title>Férfiműszak</title>
-      <link>https://hungaricus.github.io/hugo/books/ferfimuszak_2_kiadas/</link>
-      <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
-      
-      <guid>https://hungaricus.github.io/hugo/books/ferfimuszak_2_kiadas/</guid>
-      <description>Férfiműszak Domszky László: Férfiműszak. Melegprostik a megfizetett boldogságról. 2. kiadás. Ad Librum Kiadó, 2018. 160. ISBN 978-615-5758-07-2 2990 [Riportkönyv]
-Less be a férfiprostituáltak elképesztő világába!
-Tényfeltáró riportkönyv arról, hogyan csábítja el a pénz az - akár heteró - fiúkat, hogy meleg luxusprostivá váljanak, és kiszolgálják a klienseik aberrációit.</description>
     </item>
     
   </channel>
