@@ -1,13 +1,18 @@
 +++
-title = "Viszockij-könyvbemutató és irodalmi teázás a Petőfi Irodalmi Múzeumban"
-slug = "viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban"
+aliases = ["viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban"]
 author = "kiado"
-wp_post_id = 3482
-date = 2018-06-01T09:00:51+02:00
-aliases =["viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban"]
-tags = ["beszélgetés","Bors Anikó","dalok","életmű","könyvbemutató","Marosi Lajos","orosz","PIM","Thuróczy Gergely","Versek","Viszockij"]
-categories = ["Könyveinkkel történt","Szerzőnkkel történt","Visszhang"]
+categories = ["Könyveinkkel történt", "Szerzőnkkel történt", "Visszhang"]
+date = "2018-06-01T09:00:51+02:00"
 description = "A rangos irodalomtörténeti műhely és fórum május 24-én Viszockij-estet tartott a világhírű színész, dalszerző, költő és előadóművész emlékének tiszteletére, aki idén lenne 80 éves. A felolvasóest a Marosi Lajos által fordított és válogatott kötet, a „Zavarni néha még fogok! – Viszockij 80” alapján villantotta fel az életmű főbb jellegzetességeit, társadalmi jelentőségét, irodalmi értékét."
+draft = false
+image = "http://www.adlibrum.hu/wp-content/uploads/2018/06/P5241828-672x372.jpg"
+linktitle = ""
+slug = "viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban"
+tags = ["beszélgetés", "Bors Anikó", "dalok", "életmű", "könyvbemutató", "Marosi Lajos", "orosz", "PIM", "Thuróczy Gergely", "Versek", "Viszockij"]
+title = "Viszockij-könyvbemutató és irodalmi teázás a Petőfi Irodalmi Múzeumban"
+weight = ""
+wp_post_id = 3482
+
 +++
 <p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span lang="hu-HU">A rangos irodalomtörténeti műhely és fórum május 24-én Viszockij-estet tartott a világhírű színész, dalszerző, költő és előadóművész emlékének tiszteletére, aki idén lenne 80 éves. A felolvasóest a Marosi Lajos által fordított és válogatott kötet, a „<a href="https://www.konyvesbolt.online/Marosi-Lajos-Zavarni-neha-meg-fogok-Viszockij">Zavarni néha még fogok! – Viszockij 80</a>” alapján villantotta fel az életmű főbb jellegzetességeit, társadalmi jelentőségét, irodalmi értékét. </span></span></span></p>
 <p><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;"><span lang="hu-HU">A szervezők két dologtól tartottak, egészen 24-én délután 16:45-ig. A fordító attól, hogy szervezési erőfeszítései ellenére sem lesz 30 érdeklődő sem, ami a korábbi műfordítói bemutatkozásai után lélektani határnak számít nála, a múzeológus szervező pedig attól, hogy négyszázan is eljönnek, mint 10 éve az emlékezetes Viszockij-kiállítás megnyitójára. A „legismertebb közösségi oldal” visszajelzéseiből mindkét végletet ki lehetett olvasni. Marosi Lajos azt gondolta, túl sok a szék, Thuróczy Gergely pedig azt, hogy kevés a saláta és a pirog...</span></span></span></p>
