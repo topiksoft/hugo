@@ -51,7 +51,7 @@ Megismerheted a női szexualitás kalandját az első bimbózástól a virágzá
 
 **_Kuti Veronika_** teológiát tanul, dúla, egykor mentálhigiénésként is lelkesedéssel gyűjtötte az idősek kalandos élettörténeteit. _Asszonyszövet_ nevű blogján kutatja a női körben felfedezhető erőt, a termékeny hétköznapok és meghitt ünnepek egyensúlyát. Egy férj társa, három kislány édesanyja, 1100 cserkész regionális vezetője.
 
-![](/uploads/Szerzői_kép.jpg)
+![Kuti Veronika](/uploads/Szerzői_kép.jpg "Kuti Veronika cserkészruhában")
 
 ## A _Vágyvirágzás_ról mondták
 
