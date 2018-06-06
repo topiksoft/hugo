@@ -444,15 +444,6 @@ Save it somewhere specific as we will be using it in the next step.</description
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://adlibrumhugo.surge.sh/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://adlibrumhugo.surge.sh/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://adlibrumhugo.surge.sh/posts/reszlet-ferfimuszak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
