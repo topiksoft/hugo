@@ -3,1234 +3,1249 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/</loc>
+    <lastmod>2018-06-05T09:40:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/riport/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/memoar/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/about/</loc>
+    <lastmod>2018-06-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/posts/megyunk-a-konyvhetre/</loc>
+    <lastmod>2018-06-05T09:40:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/memoar/angyalboksz/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/ferfimuszak/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/memoar/ferfimuszak_2_kiadas/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/riport/lovasz_horvath_nikolett-vastapsfelelosok/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/books/riport/kuti-veronika_vagyviragzas/</loc>
+    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/posts/viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/books/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/riport/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/angyalboksz/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/ferfimuszak/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/ferfimuszak_2_kiadas/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/riport/lovasz_horvath_nikolett-vastapsfelelosok/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/riport/kuti-veronika_vagyviragzas/</loc>
-    <lastmod>2018-06-01T17:40:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/posts/viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban/</loc>
-    <lastmod>2018-06-01T09:00:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/books/riport/vastapsfelelosok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/books/riport/vastapsfelelosok/</loc>
     <lastmod>2018-05-31T22:54:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/programajanlo-a-konyvhetre/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/programajanlo-a-konyvhetre/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/interju-kuti-veronikaval/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/interju-kuti-veronikaval/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/mar-elorendelheto/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/mar-elorendelheto/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/ahogy-olvasni-kezdtem-azonnal-ujra-tizenhet-eves-lettem-interju-a-katonaevek-szerzoivel/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/ahogy-olvasni-kezdtem-azonnal-ujra-tizenhet-eves-lettem-interju-a-katonaevek-szerzoivel/</loc>
     <lastmod>2018-05-22T09:00:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/dedikalasozon/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/dedikalasozon/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/21-es-pavilon/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/21-es-pavilon/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/beleolvaso-a-kacatkucko-lakoja/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/beleolvaso-a-kacatkucko-lakoja/</loc>
     <lastmod>2018-05-16T07:30:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/a-nehez-tortenelmi-idoszakok-probara-tehetik-az-ember-onazonossag-tudatat-interju-dr-mayer-janossal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/a-nehez-tortenelmi-idoszakok-probara-tehetik-az-ember-onazonossag-tudatat-interju-dr-mayer-janossal/</loc>
     <lastmod>2018-05-15T10:30:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/kritika-vastapsfelelosok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/kritika-vastapsfelelosok/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/a-mesek-utjelzoink-lehetnek-segithetnek-a-jo-iranyba-navigalni-eletunk-vitorlasat-interju-vegh-fodor-monikaval/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/a-mesek-utjelzoink-lehetnek-segithetnek-a-jo-iranyba-navigalni-eletunk-vitorlasat-interju-vegh-fodor-monikaval/</loc>
     <lastmod>2018-05-11T08:00:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/mindjart-itt-az-unnepi-konyvhet/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/mindjart-itt-az-unnepi-konyvhet/</loc>
     <lastmod>2018-05-10T09:00:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/beleolvaso-en-mar-valasztottam-hazat/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/beleolvaso-en-mar-valasztottam-hazat/</loc>
     <lastmod>2018-05-09T10:00:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/a-tetszes-teljesen-szubjektiv-dolog-interju-a-vastapsfelelosok-szerzojevel/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/a-tetszes-teljesen-szubjektiv-dolog-interju-a-vastapsfelelosok-szerzojevel/</loc>
     <lastmod>2018-05-08T08:30:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/iden-nem-itelik-oda-az-irodalmi-nobel-dijat/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/iden-nem-itelik-oda-az-irodalmi-nobel-dijat/</loc>
     <lastmod>2018-05-07T10:00:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/hamarosan/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/hamarosan/</loc>
     <lastmod>2018-05-04T14:00:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/mesetrening-a-kossuth-radioban/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/mesetrening-a-kossuth-radioban/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/megjelent-vastapsfelelosok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/megjelent-vastapsfelelosok/</loc>
     <lastmod>2018-04-18T11:00:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/konyvfesztival-2018/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/konyvfesztival-2018/</loc>
     <lastmod>2018-04-13T16:25:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/recenzio-ez-van/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/recenzio-ez-van/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/beleolvaso-ez-van/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/beleolvaso-ez-van/</loc>
     <lastmod>2018-02-28T11:30:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/meg-voltam-rola-gyozodve-hogy-panikbeteg-vagyok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/meg-voltam-rola-gyozodve-hogy-panikbeteg-vagyok/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/konyvertekeles-ferfimuszak/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/konyvertekeles-ferfimuszak/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/annyira-de-annyira-olvastam-volna-meg-tovabb/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/annyira-de-annyira-olvastam-volna-meg-tovabb/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/egyszeruen-nem-jutok-szohoz/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/egyszeruen-nem-jutok-szohoz/</loc>
     <lastmod>2018-01-24T09:30:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/ertekeles-vizvonal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/ertekeles-vizvonal/</loc>
     <lastmod>2018-01-18T09:30:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/online-marketingest-keresunk/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/online-marketingest-keresunk/</loc>
     <lastmod>2018-01-17T13:28:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/vegig-arra-vartam-hogy-mikent-fog-a-ket-szal-osszeerni-es-olyan-csavar-van-benne-amire-nem-is-szamitottam/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/vegig-arra-vartam-hogy-mikent-fog-a-ket-szal-osszeerni-es-olyan-csavar-van-benne-amire-nem-is-szamitottam/</loc>
     <lastmod>2018-01-17T09:30:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/2017-legfontosabb-sajto-megjelenesei/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/2017-legfontosabb-sajto-megjelenesei/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/fizetett-boldogsag-ahogyan-a-ferfiak-ferfiakkal-uzik-a-like-magazin-riportja/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/fizetett-boldogsag-ahogyan-a-ferfiak-ferfiakkal-uzik-a-like-magazin-riportja/</loc>
     <lastmod>2018-01-16T11:59:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/interju-nagy-judittal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/interju-nagy-judittal/</loc>
     <lastmod>2018-01-15T15:00:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/recenzio-a-szobortancrol/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/recenzio-a-szobortancrol/</loc>
     <lastmod>2018-01-11T09:30:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/style-guide/</loc>
-    <lastmod>2017-11-14T10:57:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hungaricus.github.io/hugo/posts/image-content/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/image-content/</loc>
     <lastmod>2017-11-14T08:08:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/creating-a-new-theme/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/goisforlovers/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/hugoisforlovers/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/migrate-from-jekyll/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/posts/reszlet-ferfimuszak/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/reszlet-ferfimuszak/</loc>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/17.-gyermekk%C3%B6nyvnapok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/posts/style-guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/tags/17.-gyermekk%C3%B6nyvnapok/</loc>
     <lastmod>2018-05-10T09:00:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/2018/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/2018/</loc>
     <lastmod>2018-05-07T10:00:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/89.-%C3%BCnnepi-k%C3%B6nyvh%C3%A9t/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/89.-%C3%BCnnepi-k%C3%B6nyvh%C3%A9t/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/a-h%C5%B1tlen/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/a-h%C5%B1tlen/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/a-kacatkuck%C3%B3-lak%C3%B3ja/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/a-kacatkuck%C3%B3-lak%C3%B3ja/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/a-megcsalt-%C3%A9s-a-szeret%C5%91/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/a-megcsalt-%C3%A9s-a-szeret%C5%91/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/ad-librum/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/ad-librum/</loc>
     <lastmod>2018-04-13T16:25:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/ad-librum-kiad%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/ad-librum-kiad%C3%B3/</loc>
     <lastmod>2018-05-10T09:00:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://adlibrumhugo.surge.sh/</loc>
+    <lastmod>2018-06-05T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/aj%C3%A1nl%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/aj%C3%A1nl%C3%B3/</loc>
     <lastmod>2018-01-17T09:30:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/anya-olvas/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/anya-olvas/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/anya-olvas-blog/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/anya-olvas-blog/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/barbara-whest/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/barbara-whest/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/barczikay-lilla/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/barczikay-lilla/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/beleolvas%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/beleolvas%C3%B3/</loc>
     <lastmod>2018-05-16T07:30:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/besz%C3%A9lget%C3%A9s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/besz%C3%A9lget%C3%A9s/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/blog/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/blog/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/bloggerina/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/bloggerina/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/bors-anik%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/bors-anik%C3%B3/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/bor%C3%ADt%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/bor%C3%ADt%C3%B3/</loc>
     <lastmod>2018-01-16T11:59:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/botr%C3%A1ny/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/botr%C3%A1ny/</loc>
     <lastmod>2018-01-16T11:59:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/budapesti-nemzetk%C3%B6zi-k%C3%B6nyvfesztiv%C3%A1l/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/budapesti-nemzetk%C3%B6zi-k%C3%B6nyvfesztiv%C3%A1l/</loc>
     <lastmod>2018-04-13T16:25:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/chris/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/chris/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dalok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dalok/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dedik%C3%A1l%C3%A1s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dedik%C3%A1l%C3%A1s/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dedik%C3%A1l%C3%A1sok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dedik%C3%A1l%C3%A1sok/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dedik%C3%A1l%C3%A1s%C3%B6z%C3%B6n/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dedik%C3%A1l%C3%A1s%C3%B6z%C3%B6n/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/development/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/development/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/domszky-l%C3%A1szl%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/domszky-l%C3%A1szl%C3%B3/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dont-panic/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dont-panic/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/dorka/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/dorka/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/egy-meleg-sr%C3%A1c-olvas/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/egy-meleg-sr%C3%A1c-olvas/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/el%C5%91rendelhet%C5%91/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/el%C5%91rendelhet%C5%91/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/eml%C3%A9k/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/eml%C3%A9k/</loc>
     <lastmod>2018-05-09T10:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/eml%C3%A9kirat/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/eml%C3%A9kirat/</loc>
     <lastmod>2018-05-09T10:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/erdei/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/erdei/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/erdei-l%C3%A1szl%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/erdei-l%C3%A1szl%C3%B3/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/es%C5%91csepp-utaz%C3%A1sai/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/es%C5%91csepp-utaz%C3%A1sai/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/expert-books/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/expert-books/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/expert-books/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/expert-books/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/ez-van/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/ez-van/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/f%C3%A1j-dalom/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/f%C3%A1j-dalom/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/f%C3%A9rfim%C5%B1szak/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/f%C3%A9rfim%C5%B1szak/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/garay-zsuzsa/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/garay-zsuzsa/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/gelsei-bernadett/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/gelsei-bernadett/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/george-hannmer/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/george-hannmer/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/go/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/golang/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/golang/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/hugo/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/h%C3%B6lbling-tam%C3%A1s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/h%C3%B6lbling-tam%C3%A1s/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/interj%C3%BA/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/interj%C3%BA/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/irodalom/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/irodalom/</loc>
     <lastmod>2018-05-07T10:00:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/katica/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/katica/</loc>
     <lastmod>2018-01-11T09:30:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/katona%C3%A9vek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/katona%C3%A9vek/</loc>
     <lastmod>2018-05-22T09:00:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/kerekes-anna/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/kerekes-anna/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/kiad%C3%B3i-h%C3%ADrek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3i-h%C3%ADrek/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/kiemelt/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/kiemelt/</loc>
     <lastmod>2018-05-10T09:00:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/kossuth-r%C3%A1di%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/kossuth-r%C3%A1di%C3%B3/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/kritika/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/kritika/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/kuti-veronika/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/kuti-veronika/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B3borl%C3%A1saim-az-%C3%A9let-%C3%B6sv%C3%A9nyein/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B3borl%C3%A1saim-az-%C3%A9let-%C3%B6sv%C3%A9nyein/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyv-extr%C3%A1k-blog/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyv-extr%C3%A1k-blog/</loc>
     <lastmod>2018-01-11T09:30:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyv-guru/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyv-guru/</loc>
     <lastmod>2018-05-11T08:00:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyvaj%C3%A1nl%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvaj%C3%A1nl%C3%B3/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyvbemutat%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvbemutat%C3%B3/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyves-h%C3%ADrek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyves-h%C3%ADrek/</loc>
     <lastmod>2018-05-07T10:00:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyvfesztiv%C3%A1l/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvfesztiv%C3%A1l/</loc>
     <lastmod>2018-04-18T11:00:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/k%C3%B6nyvkritik%C3%A1k-blog/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/k%C3%B6nyvkritik%C3%A1k-blog/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/lap-lap-ut%C3%A1n-blog/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyvv%C3%A1s%C3%A1r/</loc>
+    <lastmod>2018-06-05T09:40:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adlibrumhugo.surge.sh/tags/lap-lap-ut%C3%A1n-blog/</loc>
     <lastmod>2018-01-24T09:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/like-magazin/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/like-magazin/</loc>
     <lastmod>2018-01-16T11:59:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/lov%C3%A1sz-horv%C3%A1th-nikolett/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/lov%C3%A1sz-horv%C3%A1th-nikolett/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/marketing/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/marketing/</loc>
     <lastmod>2018-01-17T13:28:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/marosi-lajos/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/marosi-lajos/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mayer-antal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mayer-antal/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mayer-j%C3%A1nos/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mayer-j%C3%A1nos/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mese/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mese/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mesetr%C3%A9ning/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mesetr%C3%A9ning/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mester-gy%C3%B6rgyi/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mester-gy%C3%B6rgyi/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/mikos-%C3%A1kos/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/mikos-%C3%A1kos/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/millen%C3%A1ris/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/millen%C3%A1ris/</loc>
     <lastmod>2018-04-18T11:00:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/moln%C3%A1r-t%C3%B3ni/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/moln%C3%A1r-t%C3%B3ni/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/moly.hu/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/moly.hu/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/my-relationship-with-books/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/my-relationship-with-books/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/nagy-judit/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/nagy-judit/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/naszvadi-judith/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/naszvadi-judith/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/naszvadi-j%C3%B3zsef/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/naszvadi-j%C3%B3zsef/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/nimr%C3%B3d/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/nimr%C3%B3d/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/no-para/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/no-para/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/nobel-d%C3%ADj/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/nobel-d%C3%ADj/</loc>
     <lastmod>2018-05-07T10:00:24+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/novell%C3%A1k/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/novell%C3%A1k/</loc>
     <lastmod>2018-02-28T11:30:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/n%C5%91i-szexualit%C3%A1s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/n%C5%91i-szexualit%C3%A1s/</loc>
     <lastmod>2018-05-04T14:00:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/n%C5%91k/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/n%C5%91k/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/n%C5%91k-%C3%A9s-f%C3%A9rfiak/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/n%C5%91k-%C3%A9s-f%C3%A9rfiak/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/orosz/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/orosz/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/pauer-em%C3%A1nuel/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/pauer-em%C3%A1nuel/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/pim/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/pim/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/popovics-l%C3%A1szl%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/popovics-l%C3%A1szl%C3%B3/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/program/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/program/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/programok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/programok/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/prolireg%C3%A9ny/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/prolireg%C3%A9ny/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/pszichol%C3%B3gia/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/pszichol%C3%B3gia/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/p%C3%A1nik/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/p%C3%A1nik/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/recenzi%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/recenzi%C3%B3/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/riport/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/riport/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/riportk%C3%B6nyv/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/riportk%C3%B6nyv/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/riportk%C3%B6nyvek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/riportk%C3%B6nyvek/</loc>
     <lastmod>2018-06-01T17:40:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/r%C3%A9szlet/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/r%C3%A9szlet/</loc>
     <lastmod>2018-05-16T07:30:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/sajter-gizella/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/sajter-gizella/</loc>
     <lastmod>2018-01-18T09:30:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/standsz%C3%A1m/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/standsz%C3%A1m/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/sv%C3%A1bok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/sv%C3%A1bok/</loc>
     <lastmod>2018-05-09T10:00:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</loc>
     <lastmod>2018-05-15T10:30:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem-kiad%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem-kiad%C3%B3/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szerelmi-h%C3%A1romsz%C3%B6g/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szerelmi-h%C3%A1romsz%C3%B6g/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szexualit%C3%A1s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szexualit%C3%A1s/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szilvi%C3%B3/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szilvi%C3%B3/</loc>
     <lastmod>2018-02-20T16:00:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/szobort%C3%A1nc/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/szobort%C3%A1nc/</loc>
     <lastmod>2018-01-31T16:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/sz%C3%ADnh%C3%A1z/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/sz%C3%ADnh%C3%A1z/</loc>
     <lastmod>2018-04-18T11:00:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/sz%C3%ADnpad/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/sz%C3%ADnpad/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/</loc>
     <lastmod>2018-05-10T09:00:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/tak%C3%A1cs-hajnal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/tak%C3%A1cs-hajnal/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/templates/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/themes/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/thur%C3%B3czy-gergely/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/thur%C3%B3czy-gergely/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/titok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/titok/</loc>
     <lastmod>2018-05-04T14:00:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/t%C3%B3th-gy%C3%B6rgy/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/t%C3%B3th-gy%C3%B6rgy/</loc>
     <lastmod>2018-05-22T09:00:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/t%C3%B3th-gy%C3%B6rgyn%C3%A9/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/t%C3%B3th-gy%C3%B6rgyn%C3%A9/</loc>
     <lastmod>2018-05-22T09:00:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v.-kiss-orsolya/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v.-kiss-orsolya/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/vad%C3%A1sz%C3%BAjs%C3%A1g/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/vad%C3%A1sz%C3%BAjs%C3%A1g/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/vastapsfelel%C5%91s%C3%B6k/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/vastapsfelel%C5%91s%C3%B6k/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/vas%C3%A1rnap/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/vas%C3%A1rnap/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/versek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/versek/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/vida-guszt%C3%A1v/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/vida-guszt%C3%A1v/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/villax-rich%C3%A1rd/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/villax-rich%C3%A1rd/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/visszhang/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/visszhang/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/viszockij/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/viszockij/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/volt-egyszer-egy-gencs/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/volt-egyszer-egy-gencs/</loc>
     <lastmod>2018-03-09T10:04:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v%C3%A9gh-fodor-m%C3%B3nika/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v%C3%A9gh-fodor-m%C3%B3nika/</loc>
     <lastmod>2018-05-11T08:00:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v%C3%A9lem%C3%A9ny/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v%C3%A9lem%C3%A9ny/</loc>
     <lastmod>2018-05-14T09:30:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v%C3%ADzvonal/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v%C3%ADzvonal/</loc>
     <lastmod>2018-01-18T09:30:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/v%C3%B6r%C3%B6smarty-t%C3%A9r/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/v%C3%B6r%C3%B6smarty-t%C3%A9r/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/zavarni-n%C3%A9ha-m%C3%A9g-fogok/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/zavarni-n%C3%A9ha-m%C3%A9g-fogok/</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%A1ll%C3%A1slehet%C5%91s%C3%A9g/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%A1ll%C3%A1slehet%C5%91s%C3%A9g/</loc>
     <lastmod>2018-01-17T13:28:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%A1prilis-19--22/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%A1prilis-19--22/</loc>
     <lastmod>2018-04-13T16:25:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%A9letm%C5%B1/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%A9letm%C5%B1/</loc>
     <lastmod>2018-06-01T09:00:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%A9n-m%C3%A1r-v%C3%A1lasztottam-haz%C3%A1t.../</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%A9n-m%C3%A1r-v%C3%A1lasztottam-haz%C3%A1t.../</loc>
     <lastmod>2018-05-17T08:00:40+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%A9rt%C3%A9kel%C3%A9s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%A9rt%C3%A9kel%C3%A9s/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%ADzel%C3%ADt%C5%91/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%ADzel%C3%ADt%C5%91/</loc>
     <lastmod>2018-05-16T07:30:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%B3.-g.-marianna/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%B3.-g.-marianna/</loc>
     <lastmod>2018-01-16T15:00:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%B6nfejleszt%C3%A9s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%B6nfejleszt%C3%A9s/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%B6nismeret/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%B6nismeret/</loc>
     <lastmod>2018-04-26T09:30:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%BAj-k%C3%B6nyv/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%BAj-k%C3%B6nyv/</loc>
     <lastmod>2018-05-04T14:00:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%BAj-megjelen%C3%A9s/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%BAj-megjelen%C3%A9s/</loc>
     <lastmod>2018-05-23T09:00:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/categories/%C3%BAj-megjelen%C3%A9sek/</loc>
+    <loc>https://adlibrumhugo.surge.sh/categories/%C3%BAj-megjelen%C3%A9sek/</loc>
     <lastmod>2018-05-29T10:00:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%BCkh/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%BCkh/</loc>
     <lastmod>2018-05-30T09:00:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%BCnnepi-k%C3%B6nyvh%C3%A9t/</loc>
-    <lastmod>2018-05-10T09:00:44+02:00</lastmod>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%BCnnepi-k%C3%B6nyvh%C3%A9t/</loc>
+    <lastmod>2018-06-05T09:40:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C3%BCsd-ki-a-p%C3%A1nikod/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C3%BCsd-ki-a-p%C3%A1nikod/</loc>
     <lastmod>2018-02-22T10:30:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hungaricus.github.io/hugo/tags/%C5%91szint%C3%A9n-hazudva/</loc>
+    <loc>https://adlibrumhugo.surge.sh/tags/%C5%91szint%C3%A9n-hazudva/</loc>
     <lastmod>2018-05-18T10:00:42+02:00</lastmod>
     <priority>0</priority>
   </url>

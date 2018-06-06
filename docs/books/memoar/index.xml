@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visszaemlékezések on Ad Librum kiadók</title>
+    <link>https://adlibrumhugo.surge.sh/books/memoar/</link>
+    <description>Recent content in Visszaemlékezések on Ad Librum kiadók</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 17:40:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://adlibrumhugo.surge.sh/books/memoar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angyalboksz</title>
+      <link>https://adlibrumhugo.surge.sh/books/memoar/angyalboksz/</link>
+      <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
+      
+      <guid>https://adlibrumhugo.surge.sh/books/memoar/angyalboksz/</guid>
+      <description>Angyalboksz Büky Dorottya: Angyalboksz. Nehézfiúk a börtönéletről. Ad Librum Kiadó, 2017. 192. ISBN 978-615-5686-87-0 3490 [Riportkönyv]
+A könyvben hét beszélgetést olvashatsz volt börtönlakókkal, igazi nehézfiúkkal, akik együttesen csaknem 100 évet töltöttek a rácsok mögött, és most az életükről vallanak Dorkának.</description>
+    </item>
+    
+    <item>
+      <title>Férfiműszak</title>
+      <link>https://adlibrumhugo.surge.sh/books/memoar/ferfimuszak_2_kiadas/</link>
+      <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
+      
+      <guid>https://adlibrumhugo.surge.sh/books/memoar/ferfimuszak_2_kiadas/</guid>
+      <description>Férfiműszak Domszky László: Férfiműszak. Melegprostik a megfizetett boldogságról. 2. kiadás. Ad Librum Kiadó, 2018. 160. ISBN 978-615-5758-07-2 2990 [Riportkönyv]
+Less be a férfiprostituáltak elképesztő világába!
+Tényfeltáró riportkönyv arról, hogyan csábítja el a pénz az - akár heteró - fiúkat, hogy meleg luxusprostivá váljanak, és kiszolgálják a klienseik aberrációit.</description>
+    </item>
+    
+  </channel>
+</rss>

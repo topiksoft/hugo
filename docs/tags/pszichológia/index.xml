@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pszichológia on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/pszichol%C3%B3gia/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/pszichol%C3%B3gia/</link>
     <description>Recent content in Pszichológia on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Wed, 30 May 2018 09:00:55 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/pszichol%C3%B3gia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/pszichol%C3%B3gia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programajánló a Könyvhétre</title>
-      <link>https://hungaricus.github.io/hugo/posts/programajanlo-a-konyvhetre/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/programajanlo-a-konyvhetre/</link>
       <pubDate>Wed, 30 May 2018 09:00:55 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/programajanlo-a-konyvhetre/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/programajanlo-a-konyvhetre/</guid>
       <description>2017 őszén jelent meg Gelsei Bernadett A hűtlen, a megcsalt és a szerető – A szerelmi háromszög pszichológiája című hiánypótló könyve.
 Hiánypótló, mivel tabu témát döntöget, és a szerelmi háromszög minden egyes résztvevőjét megszólítja.</description>
     </item>

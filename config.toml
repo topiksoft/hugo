@@ -1,4 +1,5 @@
-baseurl = "https://hungaricus.github.io/hugo"
+baseurl = "https://adlibrumhugo.surge.sh"
+#baseurl = "https://hungaricus.github.io/hugo"
 title = "Ad Librum kiadók"
 copyright = "Copyright &copy; 2018 - Ad Librum Kft."
 canonifyurls = true

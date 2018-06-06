@@ -2,110 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/categories/</link>
+    <link>https://adlibrumhugo.surge.sh/categories/</link>
     <description>Recent content in Categories on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     
-	<atom:link href="https://hungaricus.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://hungaricus.github.io/hugo/categories/development/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/development/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expert Books</title>
-      <link>https://hungaricus.github.io/hugo/categories/expert-books/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/expert-books/</link>
       <pubDate>Fri, 18 May 2018 10:00:42 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/expert-books/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/expert-books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://hungaricus.github.io/hugo/categories/golang/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/golang/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiadói Hírek</title>
-      <link>https://hungaricus.github.io/hugo/categories/kiad%C3%B3i-h%C3%ADrek/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3i-h%C3%ADrek/</link>
       <pubDate>Wed, 30 May 2018 09:00:55 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/kiad%C3%B3i-h%C3%ADrek/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3i-h%C3%ADrek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiadónkkal Történt</title>
-      <link>https://hungaricus.github.io/hugo/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</link>
       <pubDate>Fri, 18 May 2018 10:00:42 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/kiad%C3%B3nkkal-t%C3%B6rt%C3%A9nt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Könyveinkkel Történt</title>
-      <link>https://hungaricus.github.io/hugo/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</link>
       <pubDate>Fri, 01 Jun 2018 09:00:51 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyveinkkel-t%C3%B6rt%C3%A9nt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Könyvvásár</title>
+      <link>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyvv%C3%A1s%C3%A1r/</link>
+      <pubDate>Tue, 05 Jun 2018 09:40:44 +0000</pubDate>
+      
+      <guid>https://adlibrumhugo.surge.sh/categories/k%C3%B6nyvv%C3%A1s%C3%A1r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riportkönyvek</title>
-      <link>https://hungaricus.github.io/hugo/categories/riportk%C3%B6nyvek/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/riportk%C3%B6nyvek/</link>
       <pubDate>Fri, 01 Jun 2018 17:40:37 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/riportk%C3%B6nyvek/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/riportk%C3%B6nyvek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Személyes Történelem</title>
-      <link>https://hungaricus.github.io/hugo/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</link>
       <pubDate>Wed, 23 May 2018 09:00:56 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/szem%C3%A9lyes-t%C3%B6rt%C3%A9nelem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Szerzőnkkel Történt</title>
-      <link>https://hungaricus.github.io/hugo/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</link>
       <pubDate>Fri, 01 Jun 2018 09:00:51 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/szerz%C5%91nkkel-t%C3%B6rt%C3%A9nt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visszhang</title>
-      <link>https://hungaricus.github.io/hugo/categories/visszhang/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/visszhang/</link>
       <pubDate>Fri, 01 Jun 2018 09:00:51 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/visszhang/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/visszhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Új Megjelenések</title>
-      <link>https://hungaricus.github.io/hugo/categories/%C3%BAj-megjelen%C3%A9sek/</link>
+      <link>https://adlibrumhugo.surge.sh/categories/%C3%BAj-megjelen%C3%A9sek/</link>
       <pubDate>Tue, 29 May 2018 10:00:04 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/categories/%C3%BAj-megjelen%C3%A9sek/</guid>
+      <guid>https://adlibrumhugo.surge.sh/categories/%C3%BAj-megjelen%C3%A9sek/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vágyvirágzás on Ad Librum kiadók</title>
-    <link>https://hungaricus.github.io/hugo/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/</link>
+    <link>https://adlibrumhugo.surge.sh/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/</link>
     <description>Recent content in Vágyvirágzás on Ad Librum kiadók</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Ad Librum Kft.</copyright>
     <lastBuildDate>Tue, 29 May 2018 10:00:04 +0200</lastBuildDate>
     
-	<atom:link href="https://hungaricus.github.io/hugo/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adlibrumhugo.surge.sh/tags/v%C3%A1gyvir%C3%A1gz%C3%A1s/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interjú Kuti Veronikával</title>
-      <link>https://hungaricus.github.io/hugo/posts/interju-kuti-veronikaval/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/interju-kuti-veronikaval/</link>
       <pubDate>Tue, 29 May 2018 10:00:04 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/interju-kuti-veronikaval/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/interju-kuti-veronikaval/</guid>
       <description>&amp;ldquo;Nem akar többet, mint mesélni valódi nőkről nyíltan, őszintén, tisztán, napfénynél, ítélkezés nélkül&amp;rdquo; - foglalja össze új kötetének célját Kuti Veronika, a Vágyvirágzás: Nők a kibontakozó szexualitásukról szerzője. A tabutémákat tapintattal tárgyaló kötet az Ad Librum kiadó Riportkönyvek sorozatának legújabb darabja.</description>
     </item>
     
     <item>
       <title>Hamarosan!</title>
-      <link>https://hungaricus.github.io/hugo/posts/hamarosan/</link>
+      <link>https://adlibrumhugo.surge.sh/posts/hamarosan/</link>
       <pubDate>Fri, 04 May 2018 14:00:07 +0200</pubDate>
       
-      <guid>https://hungaricus.github.io/hugo/posts/hamarosan/</guid>
+      <guid>https://adlibrumhugo.surge.sh/posts/hamarosan/</guid>
       <description>Örömmel mutatjuk be Riportkönyv sorozatunk legújabb tagját, Kuti Veronika Vágyvirágzás című könyvét!
 Ebben a könyvben húsz nő intim történetét olvashatod szexről, szenvedélyről, kíváncsiságról, kapcsolatokról, sebekről és fejlődésről, ahogy elmesélik, kik voltak egykor, hogyan bimbózott ki testükben a szerelem zabolátlan vadrózsája.</description>
     </item>
