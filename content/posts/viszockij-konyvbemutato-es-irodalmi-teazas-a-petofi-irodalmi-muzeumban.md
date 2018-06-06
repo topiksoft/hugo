@@ -14,7 +14,7 @@ weight = ""
 wp_post_id = 3482
 
 +++
-![](/uploads/P5241828-672x372.jpg "Könyvbemutató")
+![Viszockij-est](/uploads/P5241828-672x372.jpg "Könyvbemutató")
 
 A rangos irodalomtörténeti műhely és fórum május 24-én Viszockij-estet tartott a világhírű színész, dalszerző, költő és előadóművész emlékének tiszteletére, aki idén lenne 80 éves. A felolvasóest a Marosi Lajos által fordított és válogatott kötet, a „[Zavarni néha még fogok! – Viszockij 80](https://www.konyvesbolt.online/Marosi-Lajos-Zavarni-neha-meg-fogok-Viszockij)” alapján villantotta fel az életmű főbb jellegzetességeit, társadalmi jelentőségét, irodalmi értékét.
 
@@ -30,6 +30,6 @@ A szakmai részt érdekes szubjektív hozzászólások zárták le. Felszólalt 
 
 Végül az irodalmi teázás keretében a szamovár mellett jól fogyott az orosz hússaláta, a túrós pirog és a fordításkötet. Az utóbbiból nem is jutott mindenkinek. Amikor ez már nagyon kínos volt, a rendezők találtak még egy példányt a muzeális értékű vetítőgép alatt. De jó, hogy azzal támasztották fel az elejét!
 
-Végül az irodalmi teázás keretében a szamovár mellett jól fogyott az orosz hússaláta, a túrós pirog és a fordításkötet. Az utóbbiból nem is jutott mindenkinek. Amikor ez már nagyon kínos volt, a rendezők találtak még egy példányt a muzeális értékű vetítőgép alatt. De jó, hogy azzal támasztották fel az elejét! 
+Végül az irodalmi teázás keretében a szamovár mellett jól fogyott az orosz hússaláta, a túrós pirog és a fordításkötet. Az utóbbiból nem is jutott mindenkinek. Amikor ez már nagyon kínos volt, a rendezők találtak még egy példányt a muzeális értékű vetítőgép alatt. De jó, hogy azzal támasztották fel az elejét!
 
 A könyv megvásárolható a kiadó [webshopjában](https://www.konyvesbolt.online/Marosi-Lajos-Zavarni-neha-meg-fogok-Viszockij) és az Ünnepi Könyvhéten a Vörösmarty tér 21-es pavilonjánál.
