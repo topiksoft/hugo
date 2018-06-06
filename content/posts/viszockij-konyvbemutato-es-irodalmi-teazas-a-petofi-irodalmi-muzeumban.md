@@ -30,6 +30,5 @@ A szakmai részt érdekes szubjektív hozzászólások zárták le. Felszólalt 
 Végül az irodalmi teázás keretében a szamovár mellett jól fogyott az orosz hússaláta, a túrós pirog és a fordításkötet. Az utóbbiból nem is jutott mindenkinek. Amikor ez már nagyon kínos volt, a rendezők találtak még egy példányt a muzeális értékű vetítőgép alatt. De jó, hogy azzal támasztották fel az elejét!
 
 Végül az irodalmi teázás keretében a szamovár mellett jól fogyott az orosz hússaláta, a túrós pirog és a fordításkötet. Az utóbbiból nem is jutott mindenkinek. Amikor ez már nagyon kínos volt, a rendezők találtak még egy példányt a muzeális értékű vetítőgép alatt. De jó, hogy azzal támasztották fel az elejét! 
->>>>>>> 8bcb78ea8221b36f7286b9f46be05b66d73e949a
 
 A könyv megvásárolható a kiadó [webshopjában](https://www.konyvesbolt.online/Marosi-Lajos-Zavarni-neha-meg-fogok-Viszockij) és az Ünnepi Könyvhéten a Vörösmarty tér 21-es pavilonjánál.
