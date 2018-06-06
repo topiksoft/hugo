@@ -5,13 +5,14 @@ categories = ["Könyveinkkel történt", "Szerzőnkkel történt", "Visszhang"]
 date = "2018-06-01T09:00:51+02:00"
 description = "A rangos irodalomtörténeti műhely és fórum május 24-én Viszockij-estet tartott a világhírű színész, dalszerző, költő és előadóművész emlékének tiszteletére, aki idén lenne 80 éves. A felolvasóest a Marosi Lajos által fordított és válogatott kötet, a „Zavarni néha még fogok! – Viszockij 80” alapján villantotta fel az életmű főbb jellegzetességeit, társadalmi jelentőségét, irodalmi értékét."
 draft = false
-image = "http://www.adlibrum.hu/wp-content/uploads/2018/06/P5241828-672x372.jpg"
+image = "/uploads/P5241828-672x372.jpg"
 linktitle = ""
 slug = "viszockij-konyvbemutato-es-irodalmi-teazas-a-petofi-irodalmi-muzeumban"
 tags = ["beszélgetés", "Bors Anikó", "dalok", "életmű", "könyvbemutató", "Marosi Lajos", "orosz", "PIM", "Thuróczy Gergely", "Versek", "Viszockij"]
 title = "Viszockij-könyvbemutató és irodalmi teázás a Petőfi Irodalmi Múzeumban"
 weight = ""
 wp_post_id = 3482
+
 +++
 ![](/uploads/P5241828-672x372.jpg "Könyvbemutató")
 
