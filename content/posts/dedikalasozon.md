@@ -11,7 +11,7 @@ description = "89. Ünnepi Könyvhét vasárnapi programjai."
 +++
 Kedves Olvasóink!
 
-<strong>Június 10</strong>-én a <b>pszichológia és riportkönyveink</b> lesznek a középpontban a<b> 89. Ünnepi Könyvhéten </b>a<b> Vörösmarty téren.</b> A <strong>21</strong>-es pavilonnál az alábbi szerzőink lesznek velünk, és dedikálják könyveiket:
+<strong>Június 10</strong>-én a <b>pszichológia és riportkönyveink</b> lesznek a középpontban a<b> 89. Ünnepi Könyvhéten </b>a<b> Vörösmarty téren.</b> A <mark>21</mark>-es pavilonnál az alábbi ___szerzőink___ lesznek velünk, és ==dedikálják== könyveiket:
 
 10.00-11.00 óra –<strong>Végh-Fodor Mónika</strong> (<a href="https://adlibrum.hu/katalogus/Mesetrening.html">Mesetréning</a>)
 
